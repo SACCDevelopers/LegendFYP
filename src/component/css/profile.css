@@ -1,0 +1,36 @@
+#row{
+    height: 70px;
+}
+#nav{
+    border-bottom: 3px solid transparent;
+    margin-bottom: 10px;
+}
+#nav:hover{
+    padding: 5px;
+    border-bottom: 3px solid #FFDF24;
+    
+}
+#nav:link{
+    border-bottom: 3px solid yellow;
+    margin-bottom: 10px;
+}
+#d{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    border: 2px solid;
+}
+#grey{
+    position: absolute;
+    top: 0vw;
+}
+#yellow{
+    background-color: #FFDF24;
+    height: 20vw;
+    width: 100%;
+}
+#red{
+    height: 28vw;
+    width: 100%;
+    background-color: antiquewhite;
+}
